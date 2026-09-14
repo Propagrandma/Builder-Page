@@ -1,11 +1,37 @@
 body{
-    background-color:black ;
+    background-color: #21262d ;
 }
 
 h1{
-    color: white ;
+    color: #ecf2f8 ;
+    font-family: "Archivo Black",sans-serif ; 
 }
 
 p{
-    color: white ;
+    color: #ecf2f8 ;
+    font-family: sans-serif ;
+}
+
+#p1{
+    border-style: solid ;
+    border-radius: 10px ;
+    border-width: 3px ;
+    padding: 5px ;
+    border-color: #ecf2f8 ;
+}
+
+#p2{
+    border-style: solid ;
+    border-radius: 10px ;
+    border-width: 3px ;
+    padding: 5px ;
+    border-color: #ecf2f8 ;
+}
+
+#p3{
+    border-style: solid ;
+    border-radius: 10px ;
+    border-width: 3px ;
+    padding: 5px ;
+    border-color: #ecf2f8 ;
 }
