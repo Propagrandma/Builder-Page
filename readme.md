@@ -60,4 +60,4 @@ style.cs
 ![Webpage screenshot 2](screenshots/WebpageScreenshot2.png)
 
 ## Live Demo
-[View Tristaan's Builder Page](https://propagrandma.github.io/Builder-Page/)
+[View Tristan's Builder Page](https://propagrandma.github.io/Builder-Page/)
